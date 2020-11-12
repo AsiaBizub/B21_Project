@@ -4,3 +4,6 @@ public class November_11_2020 {
         System.out.println("Today is also veterans day");
     }
 }
+
+// Tomorrow is Thursday.
+//I am excited about tomorrow's git and github class.
