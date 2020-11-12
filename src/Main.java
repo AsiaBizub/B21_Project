@@ -5,4 +5,4 @@ public class Main {
 }
 
 // it's time to commit
-//Tomorrow is Thursday. 
+//Tomorrow is Thursday.
